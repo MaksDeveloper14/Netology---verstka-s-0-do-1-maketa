@@ -41,6 +41,7 @@ a {
 header {
 	position: relative;
 	width: 100%;
+	min-width: 1170px;
 	margin-bottom: 64px;
 	background: url('https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg');
 	background-repeat: no-repeat;
